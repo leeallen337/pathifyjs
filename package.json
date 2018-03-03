@@ -1,0 +1,11 @@
+{
+  "name": "pathifyjs",
+  "version": "0.0.1",
+  "description": "A simple way to build links with params",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lee Allen <leeallen337@gmail.com>",
+  "license": "MIT"
+}
